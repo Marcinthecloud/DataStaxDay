@@ -16,18 +16,18 @@ We have an 3 node cluster for you to play with! The cluster is currently running
 // To SSH into the cluster:
 ssh root@ipaddress 
 // You can login to any one of these 8 nodes 
-54.186.242.255
-54.186.239.141
-54.191.231.188
+54.218.76.78
+54.201.125.251
+54.218.76.61
 password: C@ssandra
 
 ```
 
 #### UI's you'll want to play around with
  
- - OpsCenter: http://54.187.246.213:8888
- - Spark Master: http://54.187.246.213:7080
- - Solr UI: http://54.187.246.213:8983/solr
+ - OpsCenter: http://54.218.76.115:8888
+ - Spark Master: http://54.218.76.115:7080
+ - Solr UI: http://54.218.76.115:8983/solr
 
 #### Connecting to the cluster from DevCenter
 - Simply add a new connection
